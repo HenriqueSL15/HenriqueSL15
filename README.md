@@ -1,4 +1,4 @@
-###  Opa, eu me chamo o Henrique Siqueira Lima 😃
+###  Opa, eu me chamo Henrique Siqueira Lima 😃
 
 - 📚 Estudando: C#, CSS, HTML e GML
 - 😎 Estudo/Trabalho com Full Stack
