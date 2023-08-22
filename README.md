@@ -1,6 +1,6 @@
 ###  Opa, eu me chamo Henrique Siqueira Lima 😃
 
-- 📚 Estudando: C#, CSS, HTML e GML
+- 📚 Estudando: C#, CSS, HTML ,JAVA SCRIPT e GML
 - 😎 Estudo/Trabalho com Full Stack
 
 
