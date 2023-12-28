@@ -1,8 +1,9 @@
 ###  Opa, eu me chamo Henrique Siqueira Lima 😃
 
-- 📚 Estudando: C#, CSS, HTML ,JAVA SCRIPT e GML
-- 😎 Estudo/Trabalho com Full Stack
+<h5>-> 📚 Estudando: C#, CSS, HTML ,JAVA SCRIPT e GML</h5>
+<h5>-> 😎 Estudo/Trabalho com Full Stack</h5>
 
+<hr/>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
@@ -15,11 +16,14 @@
 </div>
   
   ##
-  
+
+
   <div>
+  <h2>Linguagens que estudo/tenho conhecimento</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="40"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="40">
   </div>
   
   ##
