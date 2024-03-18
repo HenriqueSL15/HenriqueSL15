@@ -1,4 +1,4 @@
-#  Opa, eu me chamo Henrique Siqueira Lima 😃
+#  Opa, me chamo Henrique Siqueira Lima 😃
 
 <ul>
 <li> 📚 Estudando: TypeScript, React, MondoDB ( NoSQL ), JavaScript, C#, CSS, HTML e GML 📚</li>
