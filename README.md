@@ -17,8 +17,8 @@
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top_langs/?username=HenriqueSL15&layout=compact&langs_count=16&theme=dark"/>-->
 
 
-# Qual é o meu objetivo?
-Meu objetivo hoje é desenvolver como profissional na área de tecnologia para facilitar a vida das pessoas, dando continuidade aos estudos eu serei um Engenheiro de Software. Comprometido em aprimorar conhecimentos e técnicas de acordo com a necessidade da empresa.
+# Sobre mim
+Aspirante a desenvolver com paixão pela construção de soluções inovadoras. Trago conhecimentos em linguagens como Python e JavaScript, com experiência prática em projetos acadêmicos envolvendo desenvolvimento web. Apesar de minha jornada profissional estar no início, meu entusiasmo em aprender e aplicar novas habilidades é evidente. Estou em busca de oportunidades para contribuir efetivamente em projetos desafiadores, comprometendo-me a crescer e evoluir continuamente como profissional de TI. Movido pela curiosidade e dedicação, estou pronto para enfrentar os desafios do mundo do desenvolvimento de software.
 
 <hr/>
   
