@@ -25,7 +25,6 @@ Aspirante a desenvolver com paixão pela construção de soluções inovadoras. 
 # Tecnologias que estudo/tenho conhecimento
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="30" width="40"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="30" width="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="30" width="40"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="40"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" />
