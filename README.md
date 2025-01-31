@@ -1,7 +1,7 @@
 #  Opa, me chamo Henrique Siqueira Lima 😃
 
 <ul>
-<li> 📚 Estudando: TypeScript, React, MondoDB ( NoSQL ), JavaScript, C#, CSS, HTML e GML 📚</li>
+<li> 📚 Estudando: React, JavaScript, MondoDB ( NoSQL ), Tailwind CSS , C#, CSS, HTML e GML 📚</li>
 <li> 😎 Estudo/Trabalho com Full Stack 😎</li>
 </ul>
 
