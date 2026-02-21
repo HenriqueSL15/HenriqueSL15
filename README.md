@@ -1,7 +1,7 @@
 #  Opa, me chamo Henrique Siqueira Lima 😃
 
 <ul>
-<li> 📚 Estudando: React, JavaScript, MondoDB ( NoSQL ), Tailwind CSS , C#, CSS, HTML e GML 📚</li>
+<li> 📚 Estudando: NextJS, React, Typescript, PostgreSQL, Tailwind CSS 📚</li>
 <li> 😎 Estudo/Trabalho com Full Stack 😎</li>
 </ul>
 
@@ -9,7 +9,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<i class="devicon-html5-plain"></i>
+
           
 
 <a href="https://beacons.ai/HenriqueSL15">
@@ -24,9 +24,11 @@ Aspirante a desenvolver com paixão pela construção de soluções inovadoras. 
   
 # Tecnologias e Ferramentas
 
-## Frontend
+# Frontend
 <div style="display: inline_block">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="NextJS"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40" alt="React"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" width="40" alt="Typescript">         
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="TailwindCSS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
@@ -38,9 +40,9 @@ Aspirante a desenvolver com paixão pela construção de soluções inovadoras. 
 <div style="display: inline_block">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40" alt="Express">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="C#"/>
 </div>
 
 <hr/>
